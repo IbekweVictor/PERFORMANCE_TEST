@@ -26,7 +26,7 @@ This is a load testing framework designed to simulate user traffic on an e-comme
 
 ## Usage
 
-1.  Run the load test: `locust -f loadfile/loadtest.py --headless --num_users=100 --hatch_rate=10`
+1.  Run the load test: `locust`
 2.  Monitor the test execution using the Locust web interface: `http://localhost:8089`
 
 ## Configuration
