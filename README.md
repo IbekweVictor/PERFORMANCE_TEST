@@ -20,7 +20,7 @@ This is a load testing framework designed to simulate user traffic on an e-comme
 
 ## Installation
 
-1.  Clone the repository: `git clone https://github.com/your-repo/load-testing-framework.git`
+1.  Clone the repository: `git clone [https://github.com/IbekweVictor/PERFORMANCE_TEST.git']
 2.  Install dependencies: `pip install -r requirements.txt`
 3.  Configure the framework by modifying the `loadfile/locust.conf` file.
 
